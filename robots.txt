@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ugiliebai.sarah-wes.com/sitemap.xml
